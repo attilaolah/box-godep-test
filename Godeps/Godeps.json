@@ -1,0 +1,11 @@
+{
+	"ImportPath": "github.com/attilaolah/box-godep-test",
+	"GoVersion": "go1.3.3",
+	"Deps": [
+		{
+			"ImportPath": "github.com/attilaolah/intperm.go",
+			"Comment": "1.0.0-4-g5d266fd",
+			"Rev": "5d266fd1baf48ded9e39cb7aed686a3bdda1e162"
+		}
+	]
+}
