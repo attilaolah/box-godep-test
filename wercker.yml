@@ -1,4 +1,4 @@
-box: attilaolah/godep@1.107.1
+box: attilaolah/godep@1.107.2
 # Build definition
 build:
   # The steps that will be executed on build
